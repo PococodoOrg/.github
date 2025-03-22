@@ -15,8 +15,8 @@ We welcome contributors of all skill levels! If you're interested in using your 
 
 ## **Get Involved**  
 Interested in joining us? Here's how you can get started:  
-1. **Join Our Community** – [Link to Discord/Slack/Forum]  
-2. **Check Out Our Projects** – [Link to GitHub/Project Board]  
+1. **Join Our Community**
+2. **Check Out Our Repositories**
 3. **Introduce Yourself** – Let us know your skills and interests  
 4. **Start Contributing** – Pick a task and jump in!  
 
