@@ -21,7 +21,7 @@ Interested in joining us? Here's how you can get started:
 4. **Start Contributing** – Pick a task and jump in!  
 
 ## **Contact Us**  
-📧 Email: contact@pococodo.com  
-🌐 Website: pococodo.com
+📧 Email: contact@pococodo.org  
+🌐 Website: pococodo.org
  
 Together, we can build impactful solutions for non-profits. Join us today!  
